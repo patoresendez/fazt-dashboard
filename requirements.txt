@@ -1,0 +1,8 @@
+dash>=2.0.0
+dash-bootstrap-components
+pandas
+geopandas
+numpy
+plotly
+shapely
+gunicorn      # only needed if you’ll deploy to Heroku/Render
